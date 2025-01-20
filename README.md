@@ -18,16 +18,14 @@
 ส่วนสูง: 1.75 เมตร
 อายุ: 30 ปี
 โปรแกรมจะแสดงผลดังนี้:
-
-yaml
-Copy
-Edit
 Enter your weight in kilograms: 70
 Enter your height in meters: 1.75
 Enter your age in years: 30
 Your age is: 30 years
 Your BMI is: 22.86
 BMI Category: ปกติ (สุขภาพดี) (เท่าคนปกติ)
+
+
 ข้อมูลเพิ่มเติมเกี่ยวกับหมวดหมู่ BMI:
 น้ำหนักน้อย / ผอม: BMI ต่ำกว่า 18.50
 ปกติ (สุขภาพดี): BMI อยู่ระหว่าง 18.50 - 22.90
